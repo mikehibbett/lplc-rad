@@ -10,6 +10,8 @@ The following webpages gave useful information, in terms of the front end to the
 
 [Interesting circuit](https://electronics.stackexchange.com/questions/359314/op-amp-oscillation-bpw34-radiation-detection) with wise comments on circuit layout
 
+PCB is machined out with a 1610 CNC machine running grbl. Recommended control software is Grblcontrol(Candle_1.1.7)
+
 
 
 
