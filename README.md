@@ -19,4 +19,4 @@ In this weekend long project we aim to:
   4. Design a 3D enclosure for it
   5. Detect the radiation from a banana
 
-  Steps 2 - 5 are optional and may be filled in later
+  Steps 2 - 5 are optional and may be filled in later.
