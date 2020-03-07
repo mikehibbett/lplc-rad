@@ -11,3 +11,12 @@ This project follows on from a 2018 entry, [Radioquacktivity](http://sciencehack
 
 This year we will be using a simple photodiode. The circuit is easier to construct and draws far less power than the 400v power supply required by a Geiger-Muller tube. As a stretch goal we will try to CNC machine a PCB and 3D print an enclosure, creating a handheld detector than can be powered by a 9v battery. Perfect for prospecting in the mountains or when browsing antique shops for genuine Uranium glass or Radium painted watch faces. As one does.
 
+In this weekend long project we aim to:
+
+  Have fun
+  Build a working detector circuit
+  CNC machine a PCB for it
+  Design a 3D enclosure for it
+  Detect the radiation from a banana
+
+  Steps 2 - 5 are optional and may be filled in later
