@@ -13,10 +13,10 @@ This year we will be using a simple photodiode. The circuit is easier to constru
 
 In this weekend long project we aim to:
 
-  Have fun
-  Build a working detector circuit
-  CNC machine a PCB for it
-  Design a 3D enclosure for it
-  Detect the radiation from a banana
+  1. Have fun
+  2. Build a working detector circuit
+  3. CNC machine a PCB for it
+  4. Design a 3D enclosure for it
+  5. Detect the radiation from a banana
 
   Steps 2 - 5 are optional and may be filled in later
